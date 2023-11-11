@@ -1,4 +1,4 @@
-# React-js 🚀
+# 🚀React-js 
 Get started with react js by setting up the environment
 
 ## ✨Table of Contents
